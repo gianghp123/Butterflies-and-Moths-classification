@@ -1,7 +1,7 @@
 # BUTTERFLY AND MOTHS IMAGE CLASSIFICATION
 
 This project focuses on the classification of butterfly species using deep learning techniques.
-The goal is to build a robust model capable of accurately identifying different species of butterflies based on images.
+The goal is to build a robust pretrained-model capable of accurately identifying different species of butterflies based on images.
 The project involves training a neural network on a labeled dataset of butterfly images, optimizing the model, and evaluating its performance.
 
 * Dataset: https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species <br>
